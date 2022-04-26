@@ -1,4 +1,6 @@
 import axios from 'axios';
+import regeneratorRuntime from 'regenerator-runtime';
+
 import {
   TASK_LIST_REQUEST,
   TASK_LIST_SUCCESS,
